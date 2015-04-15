@@ -1,0 +1,10 @@
+name             'workstation-cookbook'
+maintainer       'Galen Emery'
+maintainer_email 'galen@galenemery.com'
+license          'all_rights'
+description      'Installs/Configures workstation-cookbook'
+long_description 'Installs/Configures workstation-cookbook'
+version          '0.1.2'
+
+depends 'windows'
+depends 'pantry'
